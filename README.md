@@ -16,7 +16,7 @@
 <p align="left">
 <a href="https://twitter.com/zaheer_jk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zaheer_jk" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/zaheerjk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/zaheerjk/overlay/about-this-profile/?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base%3bkbgc4jqnqfy0aeibs4kqhg%3d%3d" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/profile.php?id=61566826091099&mibextid=zbwkwl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=61566826091099&mibextid=zbwkwl" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=61566826091099&mibextid=ZbWKwL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=61566826091099&mibextid=zbwkwl" height="30" width="40" /></a>
 <a href="https://instagram.com/md_zaheer_jk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="md_zaheer_jk" height="30" width="40" /></a>
 </p>
 
