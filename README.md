@@ -6,7 +6,8 @@
 
 - 🔭 I’m currently a **1st year btech AI/ML Student**
 
-- 🌱 I’m currently learning **python,Artificial intelligence,Machine learning,Deep learning,Data Structures and Alogorithm**
+- 🌱 I’m currently learning **python,Artificial intelligence,Machine learning,
+                                Deep learning,Data Structures and Alogorithm**
 
 - 👨‍💻 All of my projects are available at [https://github.com/mdzaheerjk](https://github.com/mdzaheerjk)
 
