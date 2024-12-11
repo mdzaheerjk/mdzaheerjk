@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **info.zaheerjk@gmail.com**
 
-- 📄 My Resume: https://drive.google.com/drive/folders/18I76MiaBY8eyPrpgxHDgjMtVwSbqK-Du
+- 📄 My Resume: https://shorturl.at/t98PS
 
 
 <h3 align="left">Connect with me:</h3>
