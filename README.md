@@ -13,6 +13,7 @@
 - 📫 How to reach me **info.zaheerjk@gmail.com**
 
 - 📄 My Resume (https://drive.google.com/drive/folders/18I76MiaBY8eyPrpgxHDgjMtVwSbqK-Du)
+- - ⚡ Fun fact **Octocat Wasn't Always the Mascot: GitHub's iconic mascot, the Octocat, was originally designed by an illustrator named Simon Oxley for a stock image website. GitHub adopted it and gave it its unique identity. The Octocat has since become a symbol of collaboration and creativity in the coding world!**
 
 
 
