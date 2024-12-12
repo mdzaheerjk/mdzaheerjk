@@ -18,7 +18,7 @@ Skills & Technologies 🛠️
 
 Programming Languages: Python
 
-Tools and Technologies:visual studio code, pycharm,Google colab,Jupiter Notebook
+Tools and Technologies: visual studio code, pycharm,Google colab,Jupiter Notebook
 
 
 
