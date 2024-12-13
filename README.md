@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/mdzaheerjk](https://github.com/mdzaheerjk)
 
-- 📫 How to reach me **info.zaheerjk@gmail.com**
+- 📫 reach me Through **info.zaheerjk@gmail.com**
 
 - 📄 My Resume: https://shorturl.at/t98PS
 
