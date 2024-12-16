@@ -52,11 +52,7 @@ Let's collaborate and build amazing things together! 😊
 </div>
 
 
-### 🔥 Streak Stats
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdzaheerjk&" alt="mdzaheerjk" width="400" />
-</div>
 
 ---
 
