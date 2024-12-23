@@ -6,8 +6,8 @@
 
 <h2 align="center">About Me ℹ️</h2>
 
-<p align="center">🔭 I’m currently pursuing B Tech in CSE(AIML)</p>
 
+-🔭 I’m currently pursuing B Tech in CSE(AIML)
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/mdzaheerjk)
 - 📫 Reach me through **info.zaheerjk@gmail.com**
 - 📄 My Resume: [Resume Link](https://shorturl.at/t98PS)
