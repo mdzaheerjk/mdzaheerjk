@@ -45,10 +45,6 @@ Tools and Technologies:   Visual Studio Code, PyCharm, Google Colab, Jupyter Not
     <img src="https://github-readme-stats.vercel.app/api?username=mdzaheerjk&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 </div>
 
-<p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdzaheerjk&" alt="mdzaheerjk" />
-</p>
-
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdzaheerjk&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </div>
