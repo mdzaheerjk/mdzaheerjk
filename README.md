@@ -54,6 +54,3 @@ Tools and Technologies:   Visual Studio Code, PyCharm, Google Colab, Jupyter Not
     <img src="https://github-contributor-stats.vercel.app/api?username=mdzaheerjk&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />
 </div>
 
-<p align="center">
-    <img src="https://visitcount.itsvg.in/api?id=mdzaheerjk&icon=0&color=0" alt="Visit Count" />
-</p>
