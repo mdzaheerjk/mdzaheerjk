@@ -7,21 +7,33 @@
 <h2 align="left">About Me ℹ️</h2>
 
 
--🔭 I’m currently pursuing B Tech in CSE(AIML)
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/mdzaheerjk)
-- 📫 Reach me through **info.zaheerjk@gmail.com**
-- 📄 My Resume: [Resume Link](https://shorturl.at/t98PS)
+Hi, I'm Mohammed Zaheeruddin!
+
+🧑‍🎓 1st Year BTech Student at Shetty Institute of Technology, Gulbarga.
+
+📚 Passionate about Artificial Intelligence and Machine Learning.
+
+💡 Currently building solid programming fundamentals and enhancing problem-solving skills.
+
+🌟 Aspiring to excel in AI/ML and contribute to innovative tech solutions.
+
+📄 My Resume: [Resume Link](https://shorturl.at/t98PS)
+
+📧 Email me : info.zaheerjk@gmail.com
+
 
 <h3 align="left">Skills & Technologies 🛠️</h3>
 
-Programming Languages:   Python
+💻 Programming Languages:   Python | c/c++ |
 
-Tools and Technologies:   Visual Studio Code, PyCharm, Google Colab, Jupyter Notebook
+🛠️ Tools and Technologies:   Visual Studio Code| Coursor Ai | PyCharm | Google Colab| Jupyter Notebook
+
+
 
 
 <h3 align="left">Connect with me 🤝:</h3>
 <p align="left">
-  <a href="https://twitter.com/zaheer_jk" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
+<a href="https://twitter.com/zaheer_jk" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
   <a href="https://linkedin.com/in/zaheerjk" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
   <a href="https://www.facebook.com/profile.php?id=61566826091099&mibextid=ZbWKwL" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
   <a href="https://instagram.com/md_zaheer_jk" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
