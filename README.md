@@ -26,7 +26,7 @@ Hi, I'm Mohammed Zaheeruddin!
 
 💻 Programming Languages:   Python | c/c++ |
 
-🛠️ Tools and Technologies:   Visual Studio Code| Coursor Ai | PyCharm | Google Colab| Jupyter Notebook
+🛠️ Tools and Technologies:   Visual Studio Code| Coursor Ai | PyCharm | Google Colab | Jupyter Notebook
 
 
 
