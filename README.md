@@ -17,7 +17,7 @@ Hi, I'm Mohammed Zaheeruddin!
 
 🌟 Aspiring to excel in AI/ML and contribute to innovative tech solutions.
 
-📄 My Resume: [View Resume ](https://shorturl.at/t98PS)
+📄 My Resume: [View Resume ](https://drive.google.com/file/d/1BRFUtJcT4DIlglCIl9-tNWP7xesfsd3y/view?usp=drivesdk)
 
 📧 Email me : info.zaheerjk@gmail.com
 
