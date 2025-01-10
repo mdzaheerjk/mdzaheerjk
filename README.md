@@ -116,10 +116,3 @@ Hi, I'm Mohammed Zaheeruddin!
 <div align="center">
     <img src="https://github-contributor-stats.vercel.app/api?username=mdzaheerjk&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />
 </div>
-<div align="center">
-  ## 🐍 Snake Eating Contributions
-
-![Snake animation](https://github.com/mdzaheerjk/mdzaheerjk/blob/output/snake.svg)
-
-  
-</div>
