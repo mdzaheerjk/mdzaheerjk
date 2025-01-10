@@ -40,7 +40,6 @@ Hi, I'm Mohammed Zaheeruddin!
 <a href="https://wa.me/918762194761" target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg"  width="40" height="30"   
 alt="whatsapp logo"  /> </a>
   <a href="https://www.facebook.com/profile.php?id=61566826091099" target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="40" height="30" alt="facebook logo"  /></a>
-  <a href="" target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="40" height="30" alt="discord logo"  /></a>
   <a href="mailto:info.zaheerjk@gmail.com" target="blank"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" height="30" alt="gmail logo"  /></a>
   <a href="https://t.me/zaheerjk" target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="40" height="30" alt="telegram logo"  /></a>
 
