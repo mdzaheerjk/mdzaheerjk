@@ -2,7 +2,7 @@
 <h1 align="center">Welcome to the Mohd Zaheerudin GitHub Profile 👋</h1>
 <h3 align="center">A passionate Artificial Intelligence and Machine Learning Student from India</h3>
 
-<img align="center" alt="coading" width="1000" src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" >
+<img align="center" alt="coading" width="1000" src="https://private-user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mzg3ODg4NzcsIm5iZiI6MTczODc4ODU3NywicGF0aCI6Ii83NDAzODE5MC8yNDAzMDQ1ODYtZDQ4ODkzYmQtMDc1Ny00ODFjLThkN2UtYmEzZTE2M2ZlYWU3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAyMDUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMjA1VDIwNDkzN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTdlMDcyMzBmZmQ1ZDQ5N2JmOThjYjg2NDRkODY0ZWRiOTRiYTM3ZTJjOWQwYTg3N2JmZDAxZWJmZTRiMjM5ZGQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.KF3--Ti6mSLgvNdSwvqGKwLtYP0K8YxjRvmhertNqBU" >
 
 <h2 align="left">About Me ℹ️</h2>
 
