@@ -1,4 +1,4 @@
-![logo](https://github.com/mdzaheerjk/mdzaheerjk/blob/main/Black%20and%20White%20Simple%20Art%20Director%20LinkedIn%20Banner.png)
+![logo](https://github.com/mdzaheerjk/mdzaheerjk/blob/main/Mohd%20zaheeruddin.png)
 <h1 align="center">Welcome to the Mohd Zaheerudin GitHub Profile 👋</h1>
 <h3 align="center">A passionate Artificial Intelligence and Machine Learning Student from India</h3>
 
