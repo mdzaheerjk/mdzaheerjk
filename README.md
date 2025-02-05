@@ -2,7 +2,7 @@
 <h1 align="center">Welcome to the Mohd Zaheerudin GitHub Profile 👋</h1>
 <h3 align="center">A passionate Artificial Intelligence and Machine Learning Student from India</h3>
 
-<img align="center" alt="coading" width="1000" src="https://github.com/mdzaheerjk/mdzaheerjk/blob/main/5e73f1c3-6eb3-4b94-b7bd-0b81a3f1dbca.png" >
+<img align="center" alt="coading" width="1000" src="" >
 
 <h2 align="left">About Me ℹ️</h2>
 
