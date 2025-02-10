@@ -24,9 +24,8 @@ Hi, I'm **Mohammed Zaheeruddin!**
 
 <p align="left">
     
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/zaheer_jk) 
-    
-<a href="https://linkedin.com/in/zaheerjk" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/zaheerjk/) 
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:info.zaheerjk@gmail.com) 
 <a href="mailto:info.zaheerjk@gmail.com" target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" height="30" alt="gmail logo" /></a>
 <a href="https://wa.me/918762194761" target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="40" height="30" alt="whatsapp logo" /></a>
 <a href="https://instagram.com/md_zaheer_jk" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
