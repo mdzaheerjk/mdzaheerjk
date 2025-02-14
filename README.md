@@ -4,7 +4,6 @@
 <h1 align="center">Welcome to the Mohd Zaheeruddin GitHub Profile 👋</h1>
 <h3 align="center">A passionate Artificial Intelligence and Machine Learning Student</h3>
 
-<img align="center" alt="coding" width="1000" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif">
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=C792E9&random=true&width=900&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Hi+there!+%F0%9F%91%8B+I'm+Mohammed+Zaheeruddin!;Passionate+AI%2FML+enthusiast+%7C+BTech+Student.;Building+strong+programming+fundamentals!+;%F0%9F%9A%80+Eager+to+contribute+to+innovative+tech+solutions!)](https://git.io/typing-svg)
