@@ -142,6 +142,5 @@
     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
 </p>
 
-[![My Aweso 
 
 
