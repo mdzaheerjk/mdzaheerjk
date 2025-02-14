@@ -119,7 +119,9 @@ Hi, I'm **Mohammed Zaheeruddin!**
 ## 📊 GitHub Stats
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=mdzaheerjk&show_icons=true&theme=radical" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=mdzaheerjk&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+    <br/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdzaheerjk&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
 </p>
 
 
