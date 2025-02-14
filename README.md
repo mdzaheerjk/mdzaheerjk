@@ -23,24 +23,44 @@ Hi, I'm **Mohammed Zaheeruddin!**
 ## 🤝 Connect with me
 
 <p align="left">
-    
-<a href="https://linkedin.com/in/zaheerjk/" target="blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" height="30" alt="LinkedIn logo" />
-</a>
-<a href="mailto:info.zaheerjk@gmail.com" target="blank">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" height="30" alt="Email logo" />
-</a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/28573007/zaheer-jk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/28573007/zaheer-jk" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/zaheerjk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/zaheerjk" height="30" width="40" /></a>
-<a href="https://medium.com/https://medium.com/@info.zaheerjk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@info.zaheerjk" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/info_zaheerjk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/info_zaheerjk" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/wdfrt8wrks" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="wdfrt8wrks" height="30" width="40" /></a>
-<a href="https://wa.me/918762194761" target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="40" height="30" alt="whatsapp logo" /></a>
-<a href="https://instagram.com/md_zaheer_jk" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
-<a href="https://twitter.com/zaheer_jk" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
-<a href="https://www.facebook.com/profile.php?id=61566826091099&mibextid=ZbWKwL" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
-<a href="https://t.me/zaheerjk" target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="40" height="30" alt="telegram logo" /></a>
+    <a href="https://linkedin.com/in/zaheerjk/" target="blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" height="30" alt="LinkedIn logo" />
+    </a>
+    <a href="mailto:info.zaheerjk@gmail.com" target="blank">
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" height="30" alt="Email logo" />
+    </a>
+    <a href="https://stackoverflow.com/users/28573007/zaheer-jk" target="blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" width="40" height="30" alt="Stack Overflow" />
+    </a>
+    <a href="https://www.kaggle.com/zaheerjk" target="blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" width="40" height="30" alt="Kaggle" />
+    </a>
+    <a href="https://medium.com/@info.zaheerjk" target="blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" width="40" height="30" alt="Medium" />
+    </a>
+    <a href="https://www.hackerrank.com/info_zaheerjk" target="blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" width="40" height="30" alt="HackerRank" />
+    </a>
+    <a href="https://www.leetcode.com/wdfrt8wrks" target="blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="40" height="30" alt="LeetCode" />
+    </a>
+    <a href="https://wa.me/918762194761" target="blank">
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="40" height="30" alt="WhatsApp logo" />
+    </a>
+    <a href="https://instagram.com/md_zaheer_jk" target="blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40" height="30" alt="Instagram" />
+    </a>
+    <a href="https://twitter.com/zaheer_jk" target="blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="40" height="30" alt="Twitter" />
+    </a>
+    <a href="https://www.facebook.com/profile.php?id=61566826091099&mibextid=ZbWKwL" target="blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="40" height="30" alt="Facebook" />
+    </a>
+    <a href="https://t.me/zaheerjk" target="blank">
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="40" height="30" alt="Telegram" />
+    </a>
 </p>
+
 
 ## 🛠️ Programming Languages
 
