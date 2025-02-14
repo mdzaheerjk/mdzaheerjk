@@ -123,13 +123,16 @@
     </a> 
 </p>
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats 
+<div align="center">
 
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=mdzaheerjk&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-    <br/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdzaheerjk&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
-</p>
+
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/mdzaheerjk?cardType=github&theme=nightowl)](https://git.io/awesome-stats-card)
+
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdzaheerjk&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
+
+</div>
 
 
 
@@ -138,5 +141,7 @@
 <p align="center">
     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
 </p>
+
+[![My Aweso 
 
 
