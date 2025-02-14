@@ -6,16 +6,21 @@
 
 <img align="center" alt="coding" width="1000" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif">
 
-## About Me ℹ️
 
-Hi, I'm **Mohammed Zaheeruddin!**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=C792E9&random=true&width=900&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Hi+there!+%F0%9F%91%8B+I'm+Mohammed+Zaheeruddin!;Passionate+AI%2FML+enthusiast+%7C+BTech+Student.;Building+strong+programming+fundamentals!+;%F0%9F%9A%80+Eager+to+contribute+to+innovative+tech+solutions!)](https://git.io/typing-svg)
 
-- 🧑‍🎓 1st Year BTech Student at **Shetty Institute of Technology, Gulbarga**.
-- 📚 Passionate about **Artificial Intelligence and Machine Learning**.
-- 💡 Currently building solid **programming fundamentals** and enhancing problem-solving skills.
-- 🌟 Aspiring to excel in AI/ML and contribute to **innovative tech solutions**.
-- 📄 My Resume: [View Resume](https://drive.google.com/file/d/1BRFUtJcT4DIlglCIl9-tNWP7xesfsd3y/view?usp=drivesdk)
-- 📧 **Email me**: info.zaheerjk@gmail.com
+<div style="display: flex; flex-direction: column;">
+  <div style="flex: 1; margin-right: 10px;">
+    <ul style="list-style-type: none; padding: 0;">
+      <li>Hi 👋 I'm <b>Mohammed Zaheeruddin</b>, a passionate AI/ML enthusiast currently pursuing BTech at Shetty Institute of Technology, Gulbarga .</li>
+      <li> 📚 Building solid programming fundamentals and enhancing problem-solving skills.</li>
+      <li> 💡 Aspiring to excel in AI/ML and contribute to cutting-edge tech innovations. </li>
+      <li> 📄 My Resume: <a href="https://drive.google.com/file/d/1BRFUtJcT4DIlglCIl9-tNWP7xesfsd3y/view?usp=drivesdk"><b>View Resume</b></a></li>
+      <li> 📧 Email me: <b>info.zaheerjk@gmail.com</b> 🚀</li>
+    </ul>
+  </div>
+</div>
+
 
 ## 🛠️ Skills & Technologies
 
@@ -127,12 +132,6 @@ Hi, I'm **Mohammed Zaheeruddin!**
 </p>
 
 
-## 🏆 GitHub Achievements
-
-
-<p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=mdzaheerjk&theme=onedark" alt="GitHub Trophies" />
-</p>
 
 ## 💡 Random Quote
 
