@@ -15,10 +15,12 @@
       <li> 📚 Building solid programming fundamentals and enhancing problem-solving skills.</li>
       <li> 💡 Aspiring to excel in AI/ML and contribute to cutting-edge tech innovations. </li>
       <li> 📄 My Resume: <a href="https://drive.google.com/file/d/1BRFUtJcT4DIlglCIl9-tNWP7xesfsd3y/view?usp=drivesdk"><b>View Resume</b></a></li>
-      <li> 📧 Email me: <b>info.zaheerjk@gmail.com</b> 🚀</li>
-    </ul>
-  </div>
+      <li> 📧 Email me: <b><a href="mailto:info.zaheerjk@gmail.com">info.zaheerjk@gmail.com</a></b> 🚀</li>
+</ul>
 </div>
+</div>
+
+    
 
 
 ## 🛠️ Skills & Technologies
