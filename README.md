@@ -129,10 +129,12 @@
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/mdzaheerjk?cardType=github&theme=nightowl)](https://git.io/awesome-stats-card)
 
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdzaheerjk&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
 
 </div>
+
+##### - Disclamer - Above total stars are aggregated sum of big repositories I have contributed to ✌️✊. Click on it to get more info about the source.
+
 
 
 
