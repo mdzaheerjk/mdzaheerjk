@@ -102,21 +102,34 @@ Hi, I'm **Mohammed Zaheeruddin!**
     </a> 
 </p>
 
-## 📊 GitHub Stats
+## 🛠 Tools & Platforms
 
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=mdzaheerjk&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-</div>
+<p align="left"> 
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+    </a> 
+    <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
+    </a> 
+    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
+    </a> 
+</p>
 
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdzaheerjk&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-</div>
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=mdzaheerjk&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=mdzaheerjk&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mdzaheerjk&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🚀 Top Contributed Repositories
 
-<div align="center">
-    <img src="https://github-contributor-stats.vercel.app/api?username=mdzaheerjk&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />
-</div>
+
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=mdzaheerjk&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+
+
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 ---
 
-*🚀 Proudly created with ❤️*
