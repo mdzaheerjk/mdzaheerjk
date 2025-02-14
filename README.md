@@ -116,20 +116,24 @@ Hi, I'm **Mohammed Zaheeruddin!**
     </a> 
 </p>
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mdzaheerjk&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=mdzaheerjk&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mdzaheerjk&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## 📊 GitHub Stats
+
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=mdzaheerjk&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
 
 
+## 🏆 GitHub Achievements
 
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mdzaheerjk&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+<p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=mdzaheerjk&theme=onedark" alt="GitHub Trophies" />
+</p>
 
+## 💡 Random Quote
 
+<p align="center">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+</p>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
----
 
