@@ -53,12 +53,11 @@ Hi! 👋 I'm **Mohammed Zaheeruddin**, a passionate AI/ML enthusiast pursuing BT
 
 ## 📊 GitHub Stats
 
-<img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=mdzaheerjk&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false" />
-
 <a href="https://github.com/mdzaheerjk/github-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=mdzaheerjk&show_icons=true&theme=nightowl" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdzaheerjk&theme=nightowl&layout=compact" alt="Top Languages" />
 </a>
+<img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=mdzaheerjk&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false" />
 
 ## 💡 Random Quote
 
