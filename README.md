@@ -147,12 +147,4 @@
     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
 </p>
 
-<!--- 2nd Section on GitHub Analytics -->
 
-
-  <summary><b>⚙️ GitHub Analytics</b></summary>
-<a href="https://github.com/mdzaheerjk">
-   <img height="155em" src="https://raw.githubusercontent.com/mdzaheerjk/github-card-template/master/profile-summary-card-output/github_dark/0-profile-details.svg" alt="Sanjay K V github stats" />
-    <img height="155em" src="https://raw.githubusercontent.com/mdzaheerjk/github-card-template/master/profile-summary-card-output/github_dark/3-stats.svg" alt="Zaheer jk github stats" />
-<br>
-     
