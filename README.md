@@ -37,7 +37,7 @@
     <a href="mailto:info.zaheerjk@gmail.com" target="blank">
         <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" height="30" alt="Email" />
     </a>
-    <a href="https://instagram.com/md_zaheer_jk" target="blank">
+    <a href="https://instagram.com/zaheer.ipynb" target="blank">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40" height="30" alt="Instagram" />
     </a>
     <a href="https://twitter.com/zaheer_jk" target="blank">
