@@ -40,7 +40,7 @@
     <a href="https://instagram.com/zaheer.ipynb" target="blank">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40" height="30" alt="Instagram" />
     </a>
-    <a href="https://twitter.com/zaheer_jk" target="blank">
+    <a href="https://twitter.com/zaheer_ipynb" target="blank">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="40" height="30" alt="Twitter" />
     </a>
     <a href="https://wa.me/918762194761" target="blank">
