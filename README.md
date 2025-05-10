@@ -28,49 +28,21 @@
 - **💻 Programming Languages:** Python | C | C++
 - **🛠️ Tools & IDEs:** Visual Studio Code | Cursor AI | PyCharm | Google Colab | Jupyter Notebook
 
-## 🤝 Connect with me
+## 🌐 Connect With Me
 
-<p align="left">
-    <a href="https://linkedin.com/in/zaheerjk/" target="blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" height="30" alt="LinkedIn" />
-    </a>
-    <a href="mailto:info.zaheerjk@gmail.com" target="blank">
-        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" height="30" alt="Email" />
-    </a>
-    <a href="https://instagram.com/md_zaheer_jk" target="blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40" height="30" alt="Instagram" />
-    </a>
-    <a href="https://twitter.com/md_zaheer_jk" target="blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="40" height="30" alt="Twitter" />
-    </a>
-    <a href="https://wa.me/918762194761" target="blank">
-        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="40" height="30" alt="WhatsApp" />
-    </a>
-    <a href="https://www.facebook.com/profile.php?id=61566826091099&mibextid=ZbWKwL" target="blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="40" height="30" alt="Facebook" />
-    </a>
-    <a href="https://t.me/zaheerjk" target="blank">
-        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="40" height="30" alt="Telegram" />
-    </a>
-    <a href="https://www.leetcode.com/wdfrt8wrks" target="blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="40" height="30" alt="LeetCode" />
-    </a>
-    <a href="https://www.hackerrank.com/info_zaheerjk" target="blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" width="40" height="30" alt="HackerRank" />
-    </a>
-    <a href="https://medium.com/@info.zaheerjk" target="blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" width="40" height="30" alt="Medium" />
-    </a>
-    <a href="https://www.kaggle.com/zaheerjk" target="blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" width="40" height="30" alt="Kaggle" />
-    </a>
-    <a href="https://stackoverflow.com/users/28573007/zaheer-jk" target="blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" width="40" height="30" alt="Stack Overflow" />
-    </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/zaheerjk/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116.svg?&style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/wdfrt8wrks)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866.svg?&style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/info_zaheerjk)
+[![Medium](https://img.shields.io/badge/Medium-000000.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@info.zaheerjk)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF.svg?&style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/zaheerjk)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0.svg?&style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/zaheerjk)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/md_zaheer_jk)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/md_zaheer_jk)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/918762194761)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61566826091099&mibextid=ZbWKwL)
+[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-FE7A16.svg?&style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/28573007/zaheer-jk)
 
-
-
+---
 
 ## 🛠️ Programming Languages
 
