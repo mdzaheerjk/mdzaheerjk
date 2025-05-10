@@ -17,10 +17,7 @@
   </div>
 </div>
 
-## 🛠️ Skills & Technologies
 
-- **💻 Programming Languages:** Python | C | C++
-- **🛠️ Tools & IDEs:** Visual Studio Code | Cursor AI | PyCharm | Google Colab | Jupyter Notebook
 
 ## 🌐 Connect With Me
 
