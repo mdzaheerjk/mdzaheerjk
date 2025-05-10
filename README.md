@@ -1,10 +1,7 @@
 ![logo](https://github.com/mdzaheerjk/mdzaheerjk/blob/main/5e73f1c3-6eb3-4b94-b7bd-0b81a3f1dbca.png?raw=true)
 
-
 <h1 align="center">Welcome to the Mohd Zaheeruddin GitHub Profile 👋</h1>
 <h3 align="center">A passionate Artificial Intelligence and Machine Learning Student</h3>
-
-
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=C792E9&random=true&width=900&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Hi+there!+%F0%9F%91%8B+I'm+Mohammed+Zaheeruddin!;Passionate+AI%2FML+enthusiast+%7C+BTech+Student.;Building+strong+programming+fundamentals!+;%F0%9F%9A%80+Eager+to+contribute+to+innovative+tech+solutions!)](https://git.io/typing-svg)
 
@@ -16,12 +13,9 @@
       <li> 💡 Aspiring to excel in AI/ML and contribute to cutting-edge tech innovations. </li>
       <li> 📄 My Resume: <a href="https://drive.google.com/file/d/1BRFUtJcT4DIlglCIl9-tNWP7xesfsd3y/view?usp=drivesdk"><b>View Resume</b></a></li>
       <li> 📧 Email me: <b><a href="mailto:info.zaheerjk@gmail.com">info.zaheerjk@gmail.com</a></b> </li>
-</ul>
+    </ul>
+  </div>
 </div>
-</div>
-
-    
-
 
 ## 🛠️ Skills & Technologies
 
@@ -42,8 +36,6 @@
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61566826091099&mibextid=ZbWKwL)
 [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-FE7A16.svg?&style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/28573007/zaheer-jk)
 
----
-
 ## 🛠️ Programming Languages
 
 <p align="left"> 
@@ -57,7 +49,6 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
     </a> 
 </p>
-
 
 ## 📚 Frameworks and Libraries
 
@@ -89,15 +80,10 @@
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
     </a> 
-
 </p>
-
-
-
 
 ## 📊 GitHub Stats 
 <div align="center">
-
   
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/mdzaheerjk?cardType=github&theme=material-palenight&preferLogin=false)](https://git.io/awesome-stats-card) 
 
@@ -107,15 +93,10 @@
 
 </div>
 
-##### - Disclamer - Above total stars are aggregated sum of big repositories I have contributed to ✌️✊. Click on it to get more info about the source.
-
-
-
+##### - Disclaimer - Above total stars are aggregated sum of big repositories I have contributed to ✌️✊. Click on it to get more info about the source.
 
 ## 💡 Random Quote
 
 <p align="center">
     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
 </p>
-
-
