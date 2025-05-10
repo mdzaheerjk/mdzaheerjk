@@ -124,27 +124,24 @@
     </a> 
 </p>
 
-## 📊 GitHub Stats 
+
 <div align="center">
 
-  
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/mdzaheerjk?cardType=github&theme=material-palenight&preferLogin=false)](https://git.io/awesome-stats-card) 
+# 📊 GitHub Stats:
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdzaheerjk&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api?username=mdzaheerjk&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
+<br/>
+<img src="https://nirzak-streak-stats.vercel.app/?user=mdzaheerjk&theme=dark&hide_border=false" />
+<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdzaheerjk&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 
-<img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=mdzaheerjk&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false" alt="GitHub Activity Graph"/>
+### ✍️ Random Dev Quote
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=mdzaheerjk&icon=0&color=0)](https://visitcount.itsvg.in)
 
 </div>
-
-##### - Disclamer - Above total stars are aggregated sum of big repositories I have contributed to ✌️✊. Click on it to get more info about the source.
-
-
-
-
-## 💡 Random Quote
-
-<p align="center">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
-</p>
-
 
