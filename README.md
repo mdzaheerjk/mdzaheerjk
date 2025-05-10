@@ -74,8 +74,9 @@
     <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
         <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="aws"/> 
     </a> 
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/> 
+   </a> 
+    <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> 
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql"/> 
     </a> 
 </p>
 
