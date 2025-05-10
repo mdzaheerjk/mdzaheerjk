@@ -9,8 +9,10 @@
   <div style="flex: 1; margin-right: 10px;">
     <ul style="list-style-type: none; padding: 0;">
       <li>Hi 👋 I'm <b>Mohammed Zaheeruddin</b>, a passionate AI/ML enthusiast currently pursuing BTech at Shetty Institute of Technology, Gulbarga .</li>
-      <li> 📚 Building solid programming fundamentals and enhancing problem-solving skills.</li>
-      <li> 💡 Aspiring to excel in AI/ML and contribute to cutting-edge tech innovations. </li>
+      <li>💻 Passionate about machine learning, deep learning, and AI solutions that solve real-world problems.</li>
+      <li> 📚 Continuously building my skills in Python, data structures, and algorithms. </li>
+      <li>🎯 Actively working on AI/ML projects to gain hands-on experience and expertise..</li>
+        <li>🤝 Open to collaborating with like-minded individuals on innovative tech solutions.</li>
       <li> 📄 My Resume: <a href="https://drive.google.com/file/d/1BRFUtJcT4DIlglCIl9-tNWP7xesfsd3y/view?usp=drivesdk"><b>View Resume</b></a></li>
       <li> 📧 Email me: <b><a href="mailto:info.zaheerjk@gmail.com">info.zaheerjk@gmail.com</a></b> </li>
     </ul>
