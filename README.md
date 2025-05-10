@@ -47,7 +47,7 @@
     </a> 
 </p>
 
-## 📚 Frameworks and Libraries
+## 📚 Frameworks , Libraries , Tools And technologies
 
 <p align="left"> 
     <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
@@ -68,11 +68,6 @@
     <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> 
         <img src="https://img.shields.io/badge/Seaborn-000000?style=for-the-badge&logo=seaborn&logoColor=white" alt="seaborn"/> 
     </a> 
-</p>
-
-## 🛠️ Tools and Technologies
-
-<p align="left"> 
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
         <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git"/> 
     </a> 
