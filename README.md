@@ -87,7 +87,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdzaheerjk&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
 
-<img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=mdzaheerjk" alt="GitHub Activity Graph" />
+<img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=mdzaheerjk&bg_color=21232a" alt="GitHub Activity Graph" />
 
 
 
