@@ -1,4 +1,4 @@
-![logo](https://github.com/mdzaheerjk/mdzaheerjk/blob/main/5e73f1c3-6eb3-4b94-b7bd-0b81a3f1dbca.png?raw=true)
+![logo](https://github.com/mdzaheerjk/mdzaheerjk/blob/info/5e73f1c3-6eb3-4b94-b7bd-0b81a3f1dbca.png?raw=true)
 
 
 <h1 align="center">Welcome to the Mohd Zaheeruddin GitHub Profile 👋</h1>
