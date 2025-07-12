@@ -9,7 +9,7 @@
   <div style="flex: 1; margin-right: 10px;">
     <ul style="list-style-type: none; padding: 0;">
       <li>Hi 👋 I'm <b>Mohammed Zaheeruddin</b>, a passionate AI/ML enthusiast currently pursuing BTech at Shetty Institute of Technology, Gulbarga .</li>
-      <li>💻 Passionate about machine learning, deep learning, and AI solutions that solve real-world problems.</li>
+      <li>💻 Passionate about machine learning, deep learning, natural language processing (NLP), computer vision, and generative AI to build solutions that solve real-world problems.</li>
       <li> 📚 Continuously building my skills in Python, data structures, and algorithms. </li>
       <li>🎯 Actively working on AI/ML projects to gain hands-on experience and expertise..</li>
         <li>🤝 Open to collaborating with like-minded individuals on innovative tech solutions.</li>
