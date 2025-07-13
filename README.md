@@ -22,46 +22,51 @@
 
 
 ## 🌐 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/zaheerjk/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116.svg?&style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/wdfrt8wrks)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF.svg?&style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/zaheerjk)
-[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-FE7A16.svg?&style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/28573007/zaheer-jk)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/md_zaheer_jk)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0.svg?&style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/zaheerjk)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/md_zaheer_jk)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/918762194761)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61566826091099&mibextid=ZbWKwL)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://linkedin.com/in/zaheerjk)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/wdfrt8wrks)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=fff)](https://www.kaggle.com/zaheerjk)
+[![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/28573007/zaheer-jk)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/md_zaheer_jk)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/zaheerjk)
+[![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://twitter.com/md_zaheer_jk)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/918762194761)
 
 
 ## 🛠️ Programming Languages, Frameworks, and Libraries 
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
+[![Flask](https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff)](#)
 [![NumPy](https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=fff)](#)
 [![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff)](#)
 [![Matplotlib](https://custom-icon-badges.demolab.com/badge/Matplotlib-71D291?logo=matplotlib&logoColor=fff)](#)
 [![Scikit-learn](https://img.shields.io/badge/-scikit--learn-%23F7931E?logo=scikit-learn&logoColor=white)](#)
-[![LangChain](https://img.shields.io/badge/LangChain-1c3c3c.svg?logo=langchain&logoColor=white)]
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-ff8f00?logo=tensorflow&logoColor=white)](#)
 [![PyTorch](https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white)](#)
+[![Keras](https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=fff)](#)
+![LangChain](https://img.shields.io/badge/LangChain-1c3c3c.svg?logo=langchain&logoColor=white)
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000)](#)
 
 
  ## 📚Tools and technologies
+ [![Anaconda](https://img.shields.io/badge/Anaconda-44A833?logo=anaconda&logoColor=fff)](#)
+ [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
+ [![Cursor](https://custom-icon-badges.demolab.com/badge/Cursor-000000?logo=cursor-ai-white)](#)
+  [![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab&logoColor=fff)](#)
+ [![PyCharm](https://img.shields.io/badge/PyCharm-000?logo=pycharm&logoColor=fff)](#)
  [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
+ [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#)
  [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
  [![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff)](#)
- [![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)](#)
+ [![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white)](#)
+ [![GitLab](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=fff)](#)
+ [![GitLab CI](https://img.shields.io/badge/GitLab%20CI-FC6D26?logo=gitlab&logoColor=fff)](#)
+[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)](#)
+[![CircleCI](https://img.shields.io/badge/CircleCI-343434?logo=circleci&logoColor=fff)](#)
+[![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)](#)
 [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)](#)
 [![AWS](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white)](#)
 [![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?logo=google-cloud&logoColor=white)](#)
 [![Microsoft Azure](https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white)](#)
-[![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white)](#)
-[![GitLab CI](https://img.shields.io/badge/GitLab%20CI-FC6D26?logo=gitlab&logoColor=fff)](#)
-[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)](#)
-[![CircleCI](https://img.shields.io/badge/CircleCI-343434?logo=circleci&logoColor=fff)](#)
 [![Ollama](https://img.shields.io/badge/Ollama-fff?logo=ollama&logoColor=000)](#)
-[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000)](#)
-[![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
- [![Anaconda](https://img.shields.io/badge/Anaconda-44A833?logo=anaconda&logoColor=fff)](#)
  
 ## 📊 GitHub Stats 
 <div align="center">
