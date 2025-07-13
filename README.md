@@ -14,7 +14,7 @@
       <li>🎯 Actively working on AI/ML projects to gain hands-on experience and expertise..</li>
         <li>🤝 Open to collaborating with like-minded individuals on innovative tech solutions.</li>
       <li> 📄 My Resume: <a href="https://drive.google.com/file/d/1BRFUtJcT4DIlglCIl9-tNWP7xesfsd3y/view?usp=drivesdk"><b>View Resume</b></a></li>
-      <li> 📧 Email me: <b><a href="mailto:info.zaheerjk@gmail.com">info.zaheerjk@gmail.com</a></b> </li>
+      <li>📫 Reach out to me at: <b><a href="mailto:info.zaheerjk@gmail.com">info.zaheerjk@gmail.com</a></b> </li>
     </ul>
   </div>
 </div>
