@@ -1,1 +1,99 @@
-Committed on 2024-04-17 2024-04-17T12:40:46Committed on 2024-04-17 2024-04-17T12:45:36Committed on 2024-04-17 2024-04-17T12:26:34Committed on 2024-04-17 2024-04-17T12:58:14Committed on 2024-04-17 2024-04-17T12:28:22Committed on 2024-03-27 2024-03-27T12:46:17Committed on 2024-03-27 2024-03-27T12:23:27Committed on 2024-02-04 2024-02-04T12:28:35Committed on 2024-02-04 2024-02-04T12:21:24Committed on 2024-02-09 2024-02-09T12:21:19Committed on 2024-02-09 2024-02-09T12:38:06Committed on 2024-01-19 2024-01-19T12:35:51Committed on 2024-01-19 2024-01-19T12:27:22Committed on 2024-01-08 2024-01-08T12:00:55Committed on 2024-01-08 2024-01-08T12:32:06Committed on 2024-01-08 2024-01-08T12:47:11Committed on 2024-01-08 2024-01-08T12:46:59Committed on 2024-01-08 2024-01-08T12:40:31Committed on 2024-01-04 2024-01-04T12:26:54Committed on 2024-01-04 2024-01-04T12:26:15Committed on 2024-01-04 2024-01-04T12:02:03Committed on 2024-01-04 2024-01-04T12:15:59Committed on 2024-01-04 2024-01-04T12:07:27Committed on 2024-07-31 2024-07-31T12:06:25Committed on 2024-07-31 2024-07-31T12:48:05Committed on 2024-09-08 2024-09-08T12:31:01Committed on 2024-09-08 2024-09-08T12:17:35Committed on 2024-10-02 2024-10-02T12:34:41Committed on 2024-10-02 2024-10-02T12:51:01Committed on 2024-10-02 2024-10-02T12:48:55Committed on 2024-10-02 2024-10-02T12:44:58Committed on 2024-10-02 2024-10-02T12:02:11Committed on 2024-11-13 2024-11-13T12:26:03Committed on 2024-11-13 2024-11-13T12:21:26Committed on 2024-06-11 2024-06-11T12:00:00Committed on 2024-06-11 2024-06-11T12:26:49Committed on 2024-06-11 2024-06-11T12:40:13Committed on 2024-05-10 2024-05-10T12:48:30Committed on 2024-05-10 2024-05-10T12:40:36Committed on 2024-05-10 2024-05-10T12:55:31Committed on 2024-05-06 2024-05-06T12:43:54Committed on 2024-05-06 2024-05-06T12:57:38Committed on 2024-05-06 2024-05-06T12:06:48Committed on 2024-03-03 2024-03-03T12:39:43Committed on 2024-03-03 2024-03-03T12:28:19Committed on 2024-04-11 2024-04-11T12:38:45Committed on 2024-04-11 2024-04-11T12:38:47Committed on 2024-02-06 2024-02-06T12:19:25Committed on 2024-02-06 2024-02-06T12:57:44Committed on 2024-03-28 2024-03-28T12:17:30Committed on 2024-03-28 2024-03-28T12:55:17Committed on 2024-03-28 2024-03-28T12:14:10Committed on 2024-03-28 2024-03-28T12:21:27Committed on 2024-03-28 2024-03-28T12:33:48Committed on 2024-03-28 2024-03-28T12:26:13Committed on 2024-03-29 2024-03-29T12:28:44Committed on 2024-03-29 2024-03-29T12:38:20Committed on 2024-04-07 2024-04-07T12:32:11Committed on 2024-04-07 2024-04-07T12:24:05Committed on 2024-08-04 2024-08-04T12:20:32Committed on 2024-08-04 2024-08-04T12:30:05Committed on 2024-06-14 2024-06-14T12:29:54Committed on 2024-06-14 2024-06-14T12:49:51Committed on 2024-04-20 2024-04-20T12:48:39Committed on 2024-04-20 2024-04-20T12:53:22Committed on 2024-04-20 2024-04-20T12:43:27Committed on 2024-04-20 2024-04-20T12:51:47Committed on 2024-08-31 2024-08-31T12:48:49Committed on 2024-08-31 2024-08-31T12:24:25Committed on 2024-12-17 2024-12-17T12:29:51Committed on 2024-12-17 2024-12-17T12:02:21Committed on 2024-12-18 2024-12-18T12:36:35Committed on 2024-12-18 2024-12-18T12:56:07Committed on 2024-12-18 2024-12-18T12:11:02Committed on 2024-12-18 2024-12-18T12:08:17Committed on 2024-12-18 2024-12-18T12:31:36Committed on 2024-12-19 2024-12-19T12:51:58Committed on 2024-12-19 2024-12-19T12:32:05Committed on 2024-12-20 2024-12-20T12:11:39Committed on 2024-12-20 2024-12-20T12:06:16Committed on 2024-09-03 2024-09-03T12:23:58Committed on 2024-09-03 2024-09-03T12:06:01Committed on 2024-07-07 2024-07-07T12:17:18Committed on 2024-06-29 2024-06-29T12:59:10Committed on 2024-06-29 2024-06-29T12:09:54Committed on 2024-06-29 2024-06-29T12:21:04Committed on 2024-06-29 2024-06-29T12:23:46Committed on 2024-06-29 2024-06-29T12:38:38Committed on 2024-02-24 2024-02-24T12:01:33Committed on 2024-02-24 2024-02-24T12:29:02Committed on 2024-02-24 2024-02-24T12:37:33Committed on 2024-02-24 2024-02-24T12:26:44Committed on 2024-02-20 2024-02-20T12:42:40Committed on 2024-05-08 2024-05-08T12:15:14Committed on 2024-08-15 2024-08-15T12:52:16Committed on 2024-09-28 2024-09-28T12:10:02Committed on 2024-10-27 2024-10-27T12:17:39Committed on 2024-11-09 2024-11-09T12:09:48Committed on 2024-10-24 2024-10-24T12:42:48Committed on 2024-11-24 2024-11-24T12:47:28Committed on 2024-12-06 2024-12-06T12:14:03Committed on 2024-07-10 2024-07-10T12:17:34Committed on 2024-05-29 2024-05-29T12:49:59Committed on 2024-03-05 2024-03-05T12:50:43Committed on 2024-03-08 2024-03-08T12:53:50Committed on 2024-03-18 2024-03-18T12:52:12Committed on 2024-06-02 2024-06-02T12:12:57Committed on 2024-07-04 2024-07-04T12:16:55Committed on 2024-08-20 2024-08-20T12:43:50Committed on 2024-09-12 2024-09-12T12:29:20Committed on 2024-08-03 2024-08-03T12:54:26Committed on 2024-03-16 2024-03-16T12:39:33Committed on 2024-11-14 2024-11-14T12:15:25Committed on 2024-11-14 2024-11-14T12:19:34Committed on 2024-03-26 2024-03-26T12:19:27Committed on 2024-03-26 2024-03-26T12:06:55Committed on 2024-04-02 2024-04-02T12:36:53Committed on 2024-04-02 2024-04-02T12:08:49Committed on 2024-04-01 2024-04-01T12:07:44Committed on 2024-04-01 2024-04-01T12:41:09Committed on 2024-04-01 2024-04-01T12:28:37Committed on 2024-04-01 2024-04-01T12:15:56Committed on 2024-04-01 2024-04-01T12:18:06Committed on 2024-10-14 2024-10-14T12:49:36Committed on 2024-10-14 2024-10-14T12:38:10Committed on 2024-10-19 2024-10-19T12:59:37Committed on 2024-10-19 2024-10-19T12:45:39Committed on 2024-07-25 2024-07-25T12:28:37Committed on 2024-07-25 2024-07-25T12:28:10Committed on 2024-07-25 2024-07-25T12:25:29Committed on 2024-07-25 2024-07-25T12:35:33Committed on 2024-12-25 2024-12-25T12:03:14Committed on 2024-12-25 2024-12-25T12:33:14Committed on 2024-12-29 2024-12-29T12:04:33Committed on 2024-12-29 2024-12-29T12:59:22Committed on 2024-12-29 2024-12-29T12:59:30Committed on 2024-01-20 2024-01-20T12:36:51Committed on 2024-01-20 2024-01-20T12:50:01Committed on 2024-01-23 2024-01-23T12:53:58Committed on 2024-01-23 2024-01-23T12:49:59Committed on 2024-11-26 2024-11-26T12:08:51Committed on 2024-11-26 2024-11-26T12:46:52Committed on 2025-02-05 2025-02-05T12:49:23Committed on 2025-02-05 2025-02-05T12:46:31Committed on 2025-02-05 2025-02-05T12:46:32Committed on 2025-02-05 2025-02-05T12:13:28Committed on 2025-02-05 2025-02-05T12:27:40Committed on 2025-03-11 2025-03-11T12:08:40Committed on 2025-03-11 2025-03-11T12:39:59Committed on 2025-03-09 2025-03-09T12:29:56Committed on 2025-03-09 2025-03-09T12:23:43Committed on 2025-03-09 2025-03-09T12:02:18Committed on 2025-03-09 2025-03-09T12:49:27Committed on 2025-03-15 2025-03-15T12:42:53Committed on 2025-03-15 2025-03-15T12:23:17Committed on 2025-03-15 2025-03-15T12:13:02Committed on 2025-03-15 2025-03-15T12:07:08Committed on 2025-01-04 2025-01-04T12:06:06Committed on 2025-01-04 2025-01-04T12:55:11Committed on 2025-01-04 2025-01-04T12:31:44Committed on 2025-01-04 2025-01-04T12:40:49Committed on 2025-01-24 2025-01-24T12:12:53Committed on 2025-01-24 2025-01-24T12:16:51Committed on 2025-01-21 2025-01-21T12:12:55Committed on 2025-01-21 2025-01-21T12:01:14Committed on 2025-01-19 2025-01-19T12:13:10Committed on 2025-01-19 2025-01-19T12:20:12Committed on 2025-01-19 2025-01-19T12:36:09Committed on 2025-01-19 2025-01-19T12:10:37Committed on 2025-01-25 2025-01-25T12:58:12Committed on 2025-01-25 2025-01-25T12:29:01Committed on 2025-05-22 2025-05-22T12:01:07Committed on 2025-05-22 2025-05-22T12:32:38Committed on 2025-05-31 2025-05-31T12:39:41Committed on 2025-05-31 2025-05-31T12:24:52Committed on 2025-06-04 2025-06-04T12:39:52Committed on 2025-06-04 2025-06-04T12:47:45Committed on 2025-05-04 2025-05-04T12:35:27Committed on 2025-05-04 2025-05-04T12:34:51Committed on 2025-05-02 2025-05-02T12:01:01Committed on 2025-05-02 2025-05-02T12:57:13Committed on 2025-06-16 2025-06-16T12:01:23Committed on 2025-06-16 2025-06-16T12:44:27Committed on 2025-04-22 2025-04-22T12:06:59Committed on 2025-04-22 2025-04-22T12:52:20Committed on 2025-04-22 2025-04-22T12:50:53Committed on 2025-04-22 2025-04-22T12:37:28Committed on 2025-06-28 2025-06-28T12:23:58Committed on 2025-06-28 2025-06-28T12:15:24Committed on 2025-04-04 2025-04-04T12:31:48Committed on 2025-04-04 2025-04-04T12:37:16Committed on 2025-03-30 2025-03-30T12:54:20Committed on 2025-03-30 2025-03-30T12:44:14Committed on 2025-02-22 2025-02-22T12:55:56Committed on 2025-02-22 2025-02-22T12:12:13Committed on 2025-02-09 2025-02-09T12:22:18Committed on 2025-02-09 2025-02-09T12:08:34Committed on 2025-02-09 2025-02-09T12:47:50Committed on 2025-02-09 2025-02-09T12:36:57Committed on 2025-02-09 2025-02-09T12:18:31Committed on 2025-01-09 2025-01-09T12:44:35Committed on 2025-01-09 2025-01-09T12:26:03Committed on 2025-01-09 2025-01-09T12:12:19Committed on 2025-01-09 2025-01-09T12:59:03Committed on 2025-02-27 2025-02-27T12:36:55Committed on 2025-02-27 2025-02-27T12:00:52Committed on 2025-04-14 2025-04-14T12:13:01Committed on 2025-04-14 2025-04-14T12:52:04Committed on 2025-05-14 2025-05-14T12:58:54Committed on 2025-05-14 2025-05-14T12:49:57Committed on 2025-05-14 2025-05-14T12:02:15Committed on 2025-05-14 2025-05-14T12:31:03Committed on 2025-05-25 2025-05-25T12:38:53Committed on 2025-05-25 2025-05-25T12:56:40Committed on 2025-05-25 2025-05-25T12:34:27Committed on 2025-05-25 2025-05-25T12:51:28Committed on 2025-04-12 2025-04-12T12:25:05Committed on 2025-04-12 2025-04-12T12:18:57Committed on 2025-04-12 2025-04-12T12:54:17Committed on 2025-04-12 2025-04-12T12:35:28Committed on 2025-05-10 2025-05-10T12:04:44Committed on 2025-05-10 2025-05-10T12:26:42Committed on 2025-06-21 2025-06-21T12:16:13Committed on 2025-06-21 2025-06-21T12:31:01Committed on 2025-06-21 2025-06-21T12:28:43Committed on 2025-06-21 2025-06-21T12:40:57Committed on 2025-02-08 2025-02-08T12:47:12Committed on 2025-02-08 2025-02-08T12:55:13Committed on 2025-07-02 2025-07-02T12:43:41Committed on 2025-07-02 2025-07-02T12:09:50Committed on 2025-07-02 2025-07-02T12:49:41Committed on 2025-07-02 2025-07-02T12:08:21Committed on 2025-03-26 2025-03-26T12:22:31Committed on 2025-03-26 2025-03-26T12:05:15Committed on 2025-03-26 2025-03-26T12:54:26Committed on 2025-03-26 2025-03-26T12:53:08Committed on 2024-02-01 2024-02-01T12:33:16Committed on 2025-04-17 2025-04-17T12:56:39Committed on 2025-04-17 2025-04-17T12:49:40Committed on 2025-07-07 2025-07-07T12:59:34Committed on 2025-07-07 2025-07-07T12:27:07
+![logo](https://github.com/mdzaheerjk/mdzaheerjk/blob/main3/5e73f1c3-6eb3-4b94-b7bd-0b81a3f1dbca.png?raw=true)
+<h1 align="center">Welcome to the Mohd Zaheeruddin GitHub Profile 👋</h1>
+<h3 align="center">A passionate Artificial Intelligence and Machine Learning Student</h3>
+
+
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=C792E9&random=true&width=900&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Hi+there!+%F0%9F%91%8B+I'm+Mohammed+Zaheeruddin!;Passionate+AI%2FML+enthusiast+%7C+BTech+Student.;Building+strong+programming+fundamentals!+;%F0%9F%9A%80+Eager+to+contribute+to+innovative+tech+solutions!)](https://git.io/typing-svg)
+
+<div style="display: flex; flex-direction: column;">
+  <div style="flex: 1; margin-right: 10px;">
+    <ul style="list-style-type: none; padding: 0;">
+      <li>Hi 👋 I'm <b>Mohammed Zaheeruddin</b>, a passionate AI/ML enthusiast currently pursuing BTech at Shetty Institute of Technology, Gulbarga.</li>
+      <li>💻 Passionate about machine learning, deep learning, natural language processing (NLP), computer vision, and generative AI to build solutions that solve real-world problems.</li>
+      <li> 📚 Continuously building my skills in Python, data structures, and algorithms. </li>
+      <li>🎯 Actively working on AI/ML projects to gain hands-on experience and expertise.</li>
+      <li>🤝 Open to collaborating with like-minded individuals on innovative tech solutions.</li>
+      <li> 📄 My Resume: <a href="https://drive.google.com/file/d/1BRFUtJcT4DIlglCIl9-tNWP7xesfsd3y/view?usp=drivesdk"><b>View Resume</b></a></li>
+      <li>📫 Reach out to me at: <b><a href="mailto:zaheerxaiml@gmail.com">zaheerxaiml@gmail.com</a></b> </li>
+      <li>🚀 Support my AI/ML journey 
+    <a href="https://github.com/sponsors/mdzaheerjk">
+    <img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-red" alt="Sponsor">
+  </a>
+</li>
+
+  </div>
+</div>
+
+## 🌐 Connect With Me
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://linkedin.com/in/zaheerjk)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/3TS24AI030/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=fff)](https://www.kaggle.com/zaheerjk)
+[![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/28573007/zaheer-jk)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/md_zaheer_jk)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/zaheerjk)
+[![Linktree](https://img.shields.io/badge/LinkTree-1de9b6?logo=linktree&logoColor=white)](#)
+[![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://twitter.com/md_zaheer_jk)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/918762194761)
+
+## 🛠️ Programming Languages, Frameworks, and Libraries 
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
+[![Flask](https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff)](#)
+[![NumPy](https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=fff)](#)
+[![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff)](#)
+[![Matplotlib](https://custom-icon-badges.demolab.com/badge/Matplotlib-71D291?logo=matplotlib&logoColor=fff)](#)
+[![Scikit-learn](https://img.shields.io/badge/-scikit--learn-%23F7931E?logo=scikit-learn&logoColor=white)](#)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-ff8f00?logo=tensorflow&logoColor=white)](#)
+[![PyTorch](https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white)](#)
+[![Keras](https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=fff)](#)
+![LangChain](https://img.shields.io/badge/LangChain-1c3c3c.svg?logo=langchain&logoColor=white)
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000)](#)
+
+ ## 📚Tools and technologies
+ [![Anaconda](https://img.shields.io/badge/Anaconda-44A833?logo=anaconda&logoColor=fff)](#)
+ [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
+ [![Cursor](https://custom-icon-badges.demolab.com/badge/Cursor-000000?logo=cursor-ai-white)](#)
+ [![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab&logoColor=fff)](#)
+ [![PyCharm](https://img.shields.io/badge/PyCharm-000?logo=pycharm&logoColor=fff)](#)
+ [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
+ [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#)
+ [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
+ [![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff)](#)
+ [![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white)](#)
+ [![GitLab](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=fff)](#)
+ [![GitLab CI](https://img.shields.io/badge/GitLab%20CI-FC6D26?logo=gitlab&logoColor=fff)](#)
+[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)](#)
+[![CircleCI](https://img.shields.io/badge/CircleCI-343434?logo=circleci&logoColor=fff)](#)
+[![Octopus Deploy](https://img.shields.io/badge/Octopus%20Deploy-2F93E0?logo=Octopus%20Deploy&logoColor=white)](#)
+[![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)](#)
+[![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)](#)
+[![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)](#)
+[![AWS](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white)](#)
+[![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?logo=google-cloud&logoColor=white)](#)
+[![Microsoft Azure](https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white)](#)
+[![Heroku](https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=fffe)](#)
+[![Ollama](https://img.shields.io/badge/Ollama-fff?logo=ollama&logoColor=000)](#)
+ 
+## 📊 GitHub Stats 
+<div align="center">
+  
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/mdzaheerjk?cardType=github&theme=omni&preferLogin=false)](https://git.io/awesome-stats-card)
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdzaheerjk&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
+
+<img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=mdzaheerjk&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&" alt="GitHub Activity Graph" />
+
+
+</div>
+
+##### - Disclaimer - Above total stars are aggregated sum of big repositories I have contributed to ✌️✊. Click on it to get more info about the source.
+
+## 💡 Random Quote
+
+<p align="center">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+</p>
+
+
+
+
