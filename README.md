@@ -4,6 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=C792E9&random=true&width=900&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Hi+there!+%F0%9F%91%8B+I'm+Mohammed+Zaheeruddin!;Passionate+AI%2FML+enthusiast+%7C+BTech+Student.;Building+strong+programming+fundamentals!+;%F0%9F%9A%80+Eager+to+contribute+to+innovative+tech+solutions!)](https://git.io/typing-svg)
 
+
 <div style="display: flex; flex-direction: column;">
   <div style="flex: 1; margin-right: 10px;">
     <ul style="list-style-type: none; padding: 0;">
