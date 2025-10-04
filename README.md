@@ -80,7 +80,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdzaheerjk&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
 
-<img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=mdzaheerjk&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&" alt="GitHub Activity Graph" />
+[![zaheer jk GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=mdzaheerjk&theme=github-compact&color=0ea5a4&line=0ea5a4&point=0ea5a4&area=true&area_color=0ea5a4)](https://github.com/mdzaheerjk)
 
 
 </div>
@@ -92,8 +92,3 @@
 <p align="center">
     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
 </p>
-
-
-
-
-
