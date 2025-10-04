@@ -73,17 +73,20 @@
 [![Heroku](https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=fffe)](#)
 [![Ollama](https://img.shields.io/badge/Ollama-fff?logo=ollama&logoColor=000)](#)
  
-## 📊 GitHub Stats 
-<div align="center">
+## 📊 GitHub Profile Summary Cards
+
+<p align="center">
+  <!-- Profile Details -->
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mdzaheerjk&theme=city_lights" alt="Profile Details" /><br>
   
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/mdzaheerjk?cardType=github&theme=github&preferLogin=false)](https://git.io/awesome-stats-card)
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdzaheerjk&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
-
-[![zaheer jk GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=mdzaheerjk&theme=github-compact&color=0ea5a4&line=0ea5a4&point=0ea5a4&area=true&area_color=0ea5a4)](https://github.com/mdzaheerjk)
-
-
-</div>
+  <!-- Repos per Language & Most Commit Language -->
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mdzaheerjk&theme=city_lights" alt="Repos per Language" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mdzaheerjk&theme=city_lights" alt="Most Commit Language" /><br>
+  
+  <!-- Stats & Productive Time -->
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mdzaheerjk&theme=city_lights" alt="GitHub Stats" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mdzaheerjk&theme=city_lights&utcOffset=8" alt="Productive Time" />
+</p>
 
 ##### - Disclaimer - Above total stars are aggregated sum of big repositories I have contributed to ✌️✊. Click on it to get more info about the source.
 
@@ -92,3 +95,5 @@
 <p align="center">
     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
 </p>
+
+
