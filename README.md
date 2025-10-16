@@ -12,7 +12,7 @@
       <li> 📚 Continuously building my skills in Python, data structures, and algorithms. </li>
       <li>🎯 Actively working on AI/ML projects to gain hands-on experience and expertise.</li>
       <li>🤝 Open to collaborating with like-minded individuals on innovative tech solutions.</li>
-      <li> 📄 My Resume: <a href="https://drive.google.com/file/d/1BRFUtJcT4DIlglCIl9-tNWP7xesfsd3y/view?usp=drivesdk"><b>View Resume</b></a></li>
+      <li> 📄 My Resume: <a href="https://drive.google.com/file/d/18Qqw2A35SuSf2D3t4f3CBO-CcmLJqpBL/view"><b>View Resume</b></a></li>
       <li>📫 Reach out to me at: <b><a href="mailto:zaheerxaiml@gmail.com">zaheerxaiml@gmail.com</a></b> </li>
       <li>🚀 Support my AI/ML journey 
     <a href="https://github.com/sponsors/mdzaheerjk">
