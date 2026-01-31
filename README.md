@@ -87,12 +87,39 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mdzaheerjk&theme=city_lights&utcOffset=8" alt="Productive Time" />
 </p>
 
-##### - Disclaimer - Above total stars are aggregated sum of big repositories I have contributed to ✌️✊. Click on it to get more info about the source.
+##### - Disclaimer - The above total stars are the aggregated sum of big repositories I have contributed to ✌️✊. Click on it to get more info about the source.
+
+
+
+## 🏆 LeetCode Badges
+
+<table align="center">
+  <tr>
+    <td><img src="https://assets.leetcode.com/static_assets/marketing/1.gif" width="80"/></td>
+    <td><img  width="80"/></td>
+    <td><img  width="80"/></td>
+    <td><img  width="80"/></td>
+  </tr>
+  <tr>
+    <td><img  width="80"/></td>
+    <td><img  width="80"/></td>
+    <td><img width="80"/></td>
+    <td><img  width="80"/></td>
+  </tr>
+  <tr>
+    <td><img  width="80"/></td>
+    <td><img  width="80"/></td>
+    <td><img  width="80"/></td>
+    <td><img  width="80"/></td>
+  </tr>
+</table>
+
 
 ## 💡 Random Quote
 
 <p align="center">
     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
 </p>
+
 
 
