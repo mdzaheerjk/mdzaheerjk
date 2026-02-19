@@ -96,8 +96,8 @@
 
 <table align="center">
   <tr>
-    <td><img src="https://assets.leetcode.com/static_assets/marketing/1.gif" width="80"/></td>
-    <td><img  width="80"/></td>
+    <td><img src="https://assets.leetcode.com/static_assets/others/50.gif" width="80"/></td>
+    <td><img src="https://assets.leetcode.com/static_assets/marketing/1.gif"  width="80"/></td>
     <td><img  width="80"/></td>
     <td><img  width="80"/></td>
   </tr>
