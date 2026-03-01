@@ -107,9 +107,9 @@
 <table align="center">
   <tr>
     <td><img src="https://assets.leetcode.com/static_assets/others/50.gif" width="80"/></td>
+    <td><img src="https://assets.leetcode.com/static_assets/others/Introduction_to_Pandas.gif"  width="80"/></td>
     <td><img src="https://assets.leetcode.com/static_assets/marketing/1.gif"  width="80"/></td>
-    <td><img  width="80"/></td>
-    <td><img  width="80"/></td>
+    <td><img  src="https://assets.leetcode.com/static_assets/marketing/2.gif" width="80"/></td>
   </tr>
   <tr>
     <td><img  width="80"/></td>
