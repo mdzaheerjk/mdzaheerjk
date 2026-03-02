@@ -1,5 +1,5 @@
-![logo](https://github.com/zaidsabih/zaidsabih/blob/main/5e73f1c3-6eb3-4b94-b7bd-0b81a3f1dbca.png?raw=true)
-<h1 align="center">Welcome to the Zaid Sabih GitHub Profile 👋</h1>
+![logo](https://github.com/mdzaheerjk/mdzaheerjk/blob/main/5e73f1c3-6eb3-4b94-b7bd-0b81a3f1dbca.png?raw=true)
+<h1 align="center">Welcome to the Mohd Zaheeruddin GitHub Profile 👋</h1>
 <h3 align="center">A passionate Artificial Intelligence and Machine Learning Student</h3>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=C792E9&random=true&width=900&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Hi+there!+%F0%9F%91%8B+I'm+Mohammed+Zaheeruddin!;Passionate+AI%2FML+enthusiast+%7C+BTech+Student.;Building+strong+programming+fundamentals!+;%F0%9F%9A%80+Eager+to+contribute+to+innovative+tech+solutions!)](https://git.io/typing-svg)
@@ -8,7 +8,7 @@
 <div style="display: flex; flex-direction: column;">
   <div style="flex: 1; margin-right: 10px;">
     <ul style="list-style-type: none; padding: 0;">
-      <li>Hi 👋 I'm <b>Zaid Sabih</b>, a passionate AI/ML enthusiast currently pursuing BTech at Shetty Institute of Technology, Gulbarga.</li>
+      <li>Hi 👋 I'm <b>Mohd Zaheeruddin</b>, a passionate AI/ML enthusiast currently pursuing BTech at Shetty Institute of Technology, Gulbarga.</li>
       <li>💻 Passionate about machine learning, deep learning, natural language processing (NLP), computer vision, and generative AI to build solutions that solve real-world problems.</li>
       <li> 📚 Continuously building my skills in Python, data structures, and algorithms. </li>
       <li>🎯 Actively working on AI/ML projects to gain hands-on experience and expertise.</li>
