@@ -112,7 +112,7 @@
     <td><img  src="https://assets.leetcode.com/static_assets/marketing/2.gif" width="80"/></td>
   </tr>
   <tr>
-    <td><img  width="80"/></td>
+    <td><img  src="https://assets.leetcode.com/static_assets/marketing/3.gif"  width="80"/></td>
     <td><img  width="80"/></td>
     <td><img width="80"/></td>
     <td><img  width="80"/></td>
