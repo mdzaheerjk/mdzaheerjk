@@ -23,35 +23,61 @@
   </div>
 </div>
 
-⭐ My recommended GitHub README stack (around 60 badges)
-Languages
+For an **AI/ML Engineer specializing in Machine Learning, Deep Learning, Computer Vision, NLP, Generative AI, Agentic AI, MLOps, LLMOps, and AIOps**, I would keep the profile focused on technologies that are actually used in the AI ecosystem.
+
+---
+
+# 💻 Programming Languages
+
+```text
 Python
 C++
 JavaScript
-AI & LLMs
+```
+
+---
+
+# 🤖 AI Models & LLMs
+
+```text
 ChatGPT
 Claude
-Gemini
+Google Gemini
+Google AI Studio
 DeepSeek
 Qwen
 Mistral AI
 Hugging Face
 Ollama
 OpenRouter
+Perplexity
 GitHub Copilot
-ML/DL
+```
+
+---
+
+# 🦜 AI Frameworks & Libraries
+
+```text
+LangChain
 TensorFlow
 PyTorch
 Keras
 Scikit-learn
 OpenCV
 YOLO
-LangChain
+Pydantic
 FastAPI
 Flask
 Gradio
-Pydantic
-Data Science
+GraphQL
+```
+
+---
+
+# 📊 Data Science
+
+```text
 NumPy
 Pandas
 Matplotlib
@@ -60,43 +86,140 @@ Apache Spark
 MLflow
 Optuna
 Power BI
-CUDA
 Jupyter
 Google Colab
-Databases
+Kaggle
+Anaconda
+CUDA
+```
+
+---
+
+# 🗄️ Databases
+
+```text
 PostgreSQL
 MongoDB
 Redis
 SQLite
 Supabase
 Firebase
-Cassandra
-Cloud
+Apache Cassandra
+```
+
+---
+
+# ☁️ Cloud Platforms
+
+```text
 AWS
 AWS Lambda
 Google Cloud
-Azure
+Microsoft Azure
 Cloudflare
 Vercel
+Netlify
 Render
-MLOps & DevOps
+Hostinger
+Firebase
+```
+
+---
+
+# 🚀 DevOps & MLOps
+
+```text
 Docker
 Kubernetes
 GitHub Actions
 GitLab CI
 CircleCI
 Jenkins
+Octopus Deploy
 Grafana
 Prometheus
-Development
+```
+
+---
+
+# 🔌 APIs & Testing
+
+```text
+Postman
+OpenRouter
+FastAPI
+GraphQL
+```
+
+---
+
+# 💻 IDEs & Editors
+
+```text
 VS Code
 Cursor
 Windsurf
 PyCharm
+Visual Studio
+Jupyter Notebook
+Google Colab
+Replit
+Notepad++
+Sublime Text
+```
+
+---
+
+# 🔧 Version Control
+
+```text
 Git
 GitHub
 GitLab
-Postman
+GitHub Copilot
+```
+
+---
+
+# 🌐 Operating System
+
+```text
+Windows
+```
+
+---
+
+# 📚 Learning Platforms
+
+```text
+LeetCode
+GeeksforGeeks
+Kaggle
+Udemy
+PyPI
+```
+
+---
+
+# 🌍 Developer & Social Platforms
+
+```text
+GitHub
+LinkedIn
+Stack Overflow
+Discord
+Slack
+Gmail
+Telegram
+WhatsApp
+X (Twitter)
+Linktree
+Zoom
+Markdown
+Google Chrome
+```
+
+
  
 ## 📊 GitHub Profile Summary Cards
 
