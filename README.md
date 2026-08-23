@@ -1,8 +1,3 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
-  <img alt="mdzaheerjk's GitHub profile" src="dark_mode.svg" />
-</picture>
 
 ![logo](https://github.com/mdzaheerjk/mdzaheerjk/blob/main/5e73f1c3-6eb3-4b94-b7bd-0b81a3f1dbca.png?raw=true)
 <h1 align="center">Welcome to the Mohd Zaheeruddin GitHub Profile 👋</h1> 
